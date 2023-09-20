@@ -13,3 +13,5 @@ void main(){
 /*
 Comentários de várias linhas
 */
+
+//Em Dart todas as declarações numa linha precisam finalizar com ;
